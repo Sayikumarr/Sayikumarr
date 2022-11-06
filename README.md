@@ -1,6 +1,6 @@
 <br>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 <center>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 <h1 align="center">Hi 👋, I'm Sai Kumar Mudhiraj</h1>
 <h3 align="center">A passionate developer from Hyderabad</h3>
 
