@@ -1,5 +1,4 @@
-<br>
-<center>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 <h1 align="center">Hi 👋, I'm Sai Kumar Mudhiraj</h1>
 <h3 align="center">A passionate developer from Hyderabad</h3>
@@ -35,4 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayikumarr&show_icons=true&locale=en&layout=compact" alt="sayikumarr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayikumarr&show_icons=true&locale=en" alt="sayikumarr" /></p>
-</center>
